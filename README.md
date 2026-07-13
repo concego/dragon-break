@@ -1,6 +1,6 @@
-# 🎮 Dragon Break
+# 🎮 Dragon Brick
 
-Port fiel dos clássicos do **Brick Game** (aqueles consoles de camelô dos anos 90), com controle por **acelerômetro** e foco em **inclusão digital**.
+Port fiel dos clássicos do **Brick Game** (aquele console de tijolinho dos anos 90), com controle por **acelerômetro** e foco em **inclusão digital**.
 
 > Cego e vidente jogando o mesmo jogo, na mesma tela. Sem versão paralela, sem modo especial separado.
 
@@ -48,7 +48,7 @@ Este projeto é parte do **Eu Concego Jogar (ECJ)** — missão de inclusão dig
 ## 🗂️ Estrutura
 
 ```
-dragon-break/
+dragon-brick/
 ├── index.html
 ├── test/
 ├── games/
